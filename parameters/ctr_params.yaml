@@ -1,0 +1,10 @@
+# tolerance of the waypoint constraint in meter
+tol_wpt: 0.01
+# tolerance of the terminal constraint
+tol_term: 0.03
+# number of node will be sampled per meter
+sample_dist: 0.3
+
+# not used here
+waypoints: []
+
